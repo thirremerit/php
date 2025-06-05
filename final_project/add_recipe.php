@@ -27,7 +27,7 @@ $pageTitle = 'Add Recipe';
 <head>
     <meta charset="UTF-8" />
     <title>Recipe Manager - <?php echo $pageTitle; ?></title>
-    <link rel="stylesheet" href="assets/style.css" />
+    <link rel="stylesheet" href="asset/style.css" />
 </head>
 <body>
 <nav>

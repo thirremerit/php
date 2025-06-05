@@ -21,12 +21,12 @@ $pageTitle = 'Dashboard';
 <head>
     <meta charset="UTF-8" />
     <title>Recipe Manager - <?php echo $pageTitle; ?></title>
-    <link rel="stylesheet" href="assets/style.css" />
+    <link rel="stylesheet" href="asset/style.css" />
 </head>
 <body>
     <h1>This is the Dashboard</h1>
 
-    <link rel="stylesheet" href="assets/style.css" />
+    <link rel="stylesheet" href="asset/style.css" />
 
 <nav>
     <a href="dashboard.php">Dashboard</a> |
